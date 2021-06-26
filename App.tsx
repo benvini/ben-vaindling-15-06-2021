@@ -19,7 +19,7 @@ const App = () => {
 
   useEffect(() => {
     (async () => {
-      loadLocale(languageCode);
+      loadLocale('en');
       setIsLoading(false);
       SplashScreen.hide();
     })();
