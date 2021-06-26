@@ -1,0 +1,39 @@
+{
+  "homeScreen": {
+    "favorites": "FAVORITES",
+    "home": "HOME",
+    "weatherApp": "Weather App",
+    "unableFetchWeather": "Unable fetch weather",
+    "search": "SEARCH",
+    "celcius": "Celcius",
+    "fahrenheit": "Fahrenheit",
+    "convertToFahrenheit": "CONVERT TO FAHRENHEIT",
+    "convertToCelcius": "CONVERT TO CELCIUS"
+  },
+  "favoritesScreen": {
+    "favorites": "FAVORITES",
+    "home": "HOME",
+    "noFavorites": "No favorites available. Please add your own.",
+    "unableFetchCity": "Unable fetch city",
+    "closeModal": "Close Modal"
+  },
+  "focusedCity": {
+    "city": "City:",
+    "country": "Country:",
+    "region": "Region:",
+    "timezone": "Timezone:"
+  },
+  "fiveDayWeather": {
+    "addToFavorites": "ADD TO FAVORITES",
+    "removeFromFavorites": "REMOVE FROM FAVORITES",
+    "celcius": "Celcius"
+  },
+  "favoriteItem": {
+    "celcius": "Celcius",
+    "fahrenheit": "Fahrenheit"
+  },
+  "weatherDay": {
+    "celcius": "Celcius",
+    "fahrenheit": "Fahrenheit"
+  }
+}

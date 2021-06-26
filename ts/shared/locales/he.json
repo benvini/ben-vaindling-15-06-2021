@@ -1,0 +1,39 @@
+{
+  "homeScreen": {
+    "favorites": "מועדפים",
+    "home": "בית",
+    "weatherApp": "מזג אוויר",
+    "unableFetchWeather": "לא ניתן לטעון מזג אוויר",
+    "search": "חפש",
+    "celcius": "צלסיוס",
+    "fahrenheit": "פרנהייט",
+    "convertToFahrenheit": "שנה לפרנהייט",
+    "convertToCelcius": "שנה לצלסיוס"
+  },
+  "favoritesScreen": {
+    "favorites": "מועדפים",
+    "home": "לדף הבית",
+    "noFavorites": "אין מועדפים. בבקשה הוסף כמה משלך.",
+    "unableFetchCity": "לא ניתן לטעון את העיר המבוקשת",
+    "closeModal": "סגור מודל"
+  },
+  "focusedCity": {
+    "city": "עיר:",
+    "country": "ארץ:",
+    "region": "איזור:",
+    "timezone": "איזור זמן:"
+  },
+  "fiveDayWeather": {
+    "addToFavorites": "הוסף למועדפים",
+    "removeFromFavorites": "הסר ממועדפים",
+    "celcius": "צלסיוס"
+  },
+  "favoriteItem": {
+    "celcius": "צלסיוס",
+    "fahrenheit": "פרנהייט"
+  },
+  "weatherDay": {
+    "celcius": "צלסיוס",
+    "fahrenheit": "פרנהייט"
+  }
+}
